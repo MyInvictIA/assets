@@ -1,6 +1,6 @@
 # 🌟 Welcome to the MyInvictIA Assets Repository
 
-Step right up to the [MyInvictIA](https://myinvictia.net) Assets repository! Find everything you need – visual assets, powerful pre-trained models, and expertly curated datasets – all in one convenient location. Unlock the potential of instance segmentation with ease.
+Step right up to the [MyInvictIA](https://myinvictia.net) Assets repository! Find everything you need – visual assets, powerful pre-trained models, and curated datasets – all in one convenient location. Unlock the potential of instance segmentation with ease.
 ## 🛠 Features at a Glance
 
 - **🖼 Visual Assets**: Dive into our collection of images and logos that you can incorporate into your applications or as part of your collaboration with MyInvictIA tools.
